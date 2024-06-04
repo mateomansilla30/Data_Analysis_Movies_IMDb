@@ -5,12 +5,14 @@ Este repositorio analiza un dataset de películas de la plataforma IMDb. El obje
 
 Contenidos del repositorio:
 
-data: Carpeta que contiene el dataset de películas IMDb en formato (ej: CSV, JSON).
+data: 
+Origen: Dataworld Url: https://data.world/mahe432/movies
+Drive Dataset: https://drive.google.com/drive/folders/1BjZGoOKOdeWPTq2KM24M_mEVy6wZ95XL?usp=sharing
 
-notebooks: Carpeta que contiene los notebooks o scripts utilizados para el análisis (ej: Jupyter Notebook, Python script).
+analisis_movies.py: scripts utilizados para el análisis 
 
 README.md: El archivo que estás leyendo (descripción del proyecto).
 
 Herramientas utilizadas:Pandas,Matplotlib,Seabron,NumPy
 
-Especifica aquí las librerías o lenguajes de programación utilizados (ej: pandas, matplotlib, seaborn).
+
