@@ -5,9 +5,10 @@ Este repositorio analiza un dataset de películas de la plataforma IMDb. El obje
 
 Contenidos del repositorio:
 
-data: 
-Origen: Dataworld Url: https://data.world/mahe432/movies
-Drive Dataset: https://drive.google.com/drive/folders/1BjZGoOKOdeWPTq2KM24M_mEVy6wZ95XL?usp=sharing
+data:
+
+  Origen: Dataworld Url: https://data.world/mahe432/movies
+  Drive Dataset: https://drive.google.com/drive/folders/1BjZGoOKOdeWPTq2KM24M_mEVy6wZ95XL?usp=sharing
 
 analisis_movies.py: scripts utilizados para el análisis 
 
